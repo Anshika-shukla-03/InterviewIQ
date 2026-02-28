@@ -459,16 +459,14 @@ CLIENT_URL=https://interviewiq-ai.onrender.com
 <table>
   <tr>
     <td align="center">
-      <img src="screenshot<img width="1917" height="833" alt="Screenshot 2026-02-28 165949" src="https://github.com/user-attachments/assets/c50f5a75-c837-44a9-8930-e8f1cfafabfe" />
-_home.png" alt="Home Page" width="480"/>
+      <img src="https://github.com/user-attachments/assets/c50f5a75-c837-44a9-8930-e8f1cfafabfe" alt="Home Page" width="480"/>
       <br/>
       <b>🏠 Home Page</b>
       <br/>
       <sub>Hero section with AI-powered tagline, CTA buttons and feature highlights</sub>
     </td>
     <td align="center">
-      <img src="screensho<img width="1916" height="826" alt="Screenshot 2026-02-28 170015" src="https://github.com/user-attachments/assets/dd537902-c46c-47d4-adad-ce33b7fdd4e5" />
-t_setup.png" alt="Interview Setup" width="480"/>
+      <img src="https://github.com/user-attachments/assets/dd537902-c46c-47d4-adad-ce33b7fdd4e5" alt="Interview Setup" width="480"/>
       <br/>
       <b>🛠️ Interview Setup</b>
       <br/>
@@ -477,16 +475,14 @@ t_setup.png" alt="Interview Setup" width="480"/>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshot_<img width="1919" height="836" alt="Screenshot 2026-02-28 170126" src="https://github.com/user-attachments/assets/f70f0b0b-c8d9-42c8-817c-731d431afc3a" />
-interview.png" alt="Live Interview" width="480"/>
+      <img src="https://github.com/user-attachments/assets/f70f0b0b-c8d9-42c8-817c-731d431afc3a" alt="Live Interview" width="480"/>
       <br/>
       <b>🎤 Live AI Interview</b>
       <br/>
       <sub>AI interviewer avatar, countdown timer, voice input & text answer submission</sub>
     </td>
     <td align="center">
-      <img src="screenshot_analy<img width="1917" height="834" alt="Screenshot 2026-02-28 170158" src="https://github.com/user-attachments/assets/15f08aee-e5c6-426f-8f0a-0fafc8c80409" />
-tics.png" alt="Analytics Dashboard" width="480"/>
+      <img src="https://github.com/user-attachments/assets/15f08aee-e5c6-426f-8f0a-0fafc8c80409" alt="Analytics Dashboard" width="480"/>
       <br/>
       <b>📊 Analytics Dashboard</b>
       <br/>
@@ -494,6 +490,7 @@ tics.png" alt="Analytics Dashboard" width="480"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
