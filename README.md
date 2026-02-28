@@ -183,7 +183,7 @@ InterviewIQ/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/InterviewIQ.ai.git
+git clone https://github.com/Anshika-shukla-03/InterviewIQ.ai.git
 cd InterviewIQ.ai
 ```
 
@@ -200,7 +200,7 @@ Create a `.env` file in `/server` (see [Environment Variables](#-environment-var
 npm run dev
 ```
 
-Server runs at: `http://localhost:5000`
+Server runs at: `http://localhost:8000`
 
 ### 3. Setup the Frontend
 
@@ -225,7 +225,7 @@ Frontend runs at: `http://localhost:5173`
 
 ```env
 # Server
-PORT=5000
+PORT=8000
 NODE_ENV=development
 
 # MongoDB
@@ -252,7 +252,7 @@ CLIENT_URL=http://localhost:5173
 
 ```env
 # Vite
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:8000
 
 # Firebase
 VITE_FIREBASE_API_KEY=your-firebase-api-key
@@ -444,15 +444,7 @@ Both frontend and backend are deployed on **Render**.
 4. Add all frontend environment variables prefixed with `VITE_`
 5. Update `VITE_API_URL` to your backend Render URL
 
-### CORS Configuration
 
-Ensure `CLIENT_URL` in your backend `.env` is set to your deployed frontend URL:
-
-```env
-CLIENT_URL=https://interviewiq-ai.onrender.com
-```
-
----
 
 ## 🖼️ Screenshots
 
@@ -534,8 +526,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Anshika-shukla-03)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/anshika-shukla-7531a1328/)
+- GitHub: [@Anshika-shukla-03](https://github.com/Anshika-shukla-03)
+- LinkedIn: [https://www.linkedin.com/in/anshika-shukla-7531a1328/](https://www.linkedin.com/in/anshika-shukla-7531a1328/)
 
 ---
 
