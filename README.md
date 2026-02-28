@@ -1,7 +1,24 @@
 # 🧠 InterviewIQ.ai
 
+<div align="center">
+
+![InterviewIQ.ai Banner](https://img.shields.io/badge/InterviewIQ.ai-AI%20Interview%20Platform-6C63FF?style=for-the-badge&logo=artificial-intelligence)
 
 **An AI-powered SaaS Interview Preparation Platform built with the MERN Stack**
+
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
+[![Razorpay](https://img.shields.io/badge/Razorpay-Payments-02042B?style=flat-square&logo=razorpay)](https://razorpay.com/)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-FF6B6B?style=flat-square)](https://openrouter.ai/)
+[![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=flat-square&logo=render)](https://render.com/)
+
+[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+
+</div>
+
+---
 
 ## 📋 Table of Contents
 
@@ -166,7 +183,7 @@ InterviewIQ/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Anshika-shukla-03/InterviewIQ.ai.git
+git clone https://github.com/yourusername/InterviewIQ.ai.git
 cd InterviewIQ.ai
 ```
 
@@ -427,16 +444,52 @@ Both frontend and backend are deployed on **Render**.
 4. Add all frontend environment variables prefixed with `VITE_`
 5. Update `VITE_API_URL` to your backend Render URL
 
+### CORS Configuration
 
-| Page | Description |
-|------|-------------|
-| 🏠 Home | Hero section with features and CTA |
-| 🔐 Auth | Google OAuth login |
-| 🛠️ Setup | Role, experience, mode selector + resume upload |
-| 🎤 Interview | Live question + voice/text input + feedback |
-| 📊 Analytics | Score breakdown and skill evaluation |
-| 📜 History | Past interviews with status |
-| 💳 Pricing | Credit plans with Razorpay checkout |
+Ensure `CLIENT_URL` in your backend `.env` is set to your deployed frontend URL:
+
+```env
+CLIENT_URL=https://interviewiq-ai.onrender.com
+```
+
+---
+
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshot_home.png" alt="Home Page" width="480"/>
+      <br/>
+      <b>🏠 Home Page</b>
+      <br/>
+      <sub>Hero section with AI-powered tagline, CTA buttons and feature highlights</sub>
+    </td>
+    <td align="center">
+      <img src="screenshot_setup.png" alt="Interview Setup" width="480"/>
+      <br/>
+      <b>🛠️ Interview Setup</b>
+      <br/>
+      <sub>Choose role, experience, interview mode and upload your resume (optional)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshot_interview.png" alt="Live Interview" width="480"/>
+      <br/>
+      <b>🎤 Live AI Interview</b>
+      <br/>
+      <sub>AI interviewer avatar, countdown timer, voice input & text answer submission</sub>
+    </td>
+    <td align="center">
+      <img src="screenshot_analytics.png" alt="Analytics Dashboard" width="480"/>
+      <br/>
+      <b>📊 Analytics Dashboard</b>
+      <br/>
+      <sub>Overall score, performance trend chart, skill evaluation & per-question AI feedback</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -477,6 +530,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [@yourusername](https://github.com/Anshika-shukla-03)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/anshika-shukla-7531a1328/)
+
+---
 
 ## 🙏 Acknowledgements
 
