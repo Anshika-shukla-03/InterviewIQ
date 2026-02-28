@@ -20,6 +20,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c50f5a75-c837-44a9-8930-e8f1cfafabfe" alt="InterviewIQ.ai Banner" width="100%"/>
+</div>
+
 ## 📋 Table of Contents
 
 - [About the Project](#-about-the-project)
