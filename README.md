@@ -37,7 +37,7 @@
 - [Razorpay Integration](#-razorpay-integration)
 - [AI Interview Logic](#-ai-interview-logic)
 - [Deployment](#-deployment)
-- [Screenshots](#-screenshots)
+- [Screenshots](#️⃣-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 
