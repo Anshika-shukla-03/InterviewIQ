@@ -56,6 +56,61 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c50f5a75-c837-44a9-8930-e8f1cfafabfe" alt="Home Page" width="480"/>
+      <br/>
+      <b>🏠 Home Page</b>
+      <br/>
+      <sub>Hero section with AI-powered tagline, CTA buttons and feature highlights</sub>
+    </td>
+              <td align="center">
+        <img src="https://github.com/user-attachments/assets/44ceafed-df3f-4628-a4a0-e01808553a45" alt="Google Auth" width="480"/>
+        <br/>
+        <b>🔐 Google Authentication</b>
+        <br/>
+        <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
+      </td>
+      <br/>
+      <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dd537902-c46c-47d4-adad-ce33b7fdd4e5" alt="Interview Setup" width="480"/>
+      <br/>
+      <b>🛠️ Interview Setup</b>
+      <br/>
+      <sub>Choose role, experience, interview mode and upload your resume (optional)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f70f0b0b-c8d9-42c8-817c-731d431afc3a" alt="Live Interview" width="480"/>
+      <br/>
+      <b>🎤 Live AI Interview</b>
+      <br/>
+      <sub>AI interviewer avatar, countdown timer, voice input & text answer submission</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/15f08aee-e5c6-426f-8f0a-0fafc8c80409" alt="Analytics Dashboard" width="480"/>
+      <br/>
+      <b>📊 Analytics Dashboard</b>
+      <br/>
+      <sub>Overall score, performance trend chart, skill evaluation & per-question AI feedback</sub>
+    </td>
+    <td align="center">
+  <img src="https://github.com/user-attachments/assets/8c2f5319-8b24-40d9-a782-110d48ff173d" alt="Pricing Plans" width="480"/>
+  <br/>
+  <b>💳 Pricing Plans</b>
+  <br/>
+  <sub>Free, Starter & Pro plans with Razorpay checkout — flexible credits for every goal</sub>
+</td>
+  </tr>
+</table>
+
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
@@ -449,60 +504,6 @@ Both frontend and backend are deployed on **Render**.
 5. Update `VITE_API_URL` to your backend Render URL
 
 
-
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c50f5a75-c837-44a9-8930-e8f1cfafabfe" alt="Home Page" width="480"/>
-      <br/>
-      <b>🏠 Home Page</b>
-      <br/>
-      <sub>Hero section with AI-powered tagline, CTA buttons and feature highlights</sub>
-    </td>
-              <td align="center">
-        <img src="https://github.com/user-attachments/assets/44ceafed-df3f-4628-a4a0-e01808553a45" alt="Google Auth" width="480"/>
-        <br/>
-        <b>🔐 Google Authentication</b>
-        <br/>
-        <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
-      </td>
-      <br/>
-      <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/dd537902-c46c-47d4-adad-ce33b7fdd4e5" alt="Interview Setup" width="480"/>
-      <br/>
-      <b>🛠️ Interview Setup</b>
-      <br/>
-      <sub>Choose role, experience, interview mode and upload your resume (optional)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f70f0b0b-c8d9-42c8-817c-731d431afc3a" alt="Live Interview" width="480"/>
-      <br/>
-      <b>🎤 Live AI Interview</b>
-      <br/>
-      <sub>AI interviewer avatar, countdown timer, voice input & text answer submission</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/15f08aee-e5c6-426f-8f0a-0fafc8c80409" alt="Analytics Dashboard" width="480"/>
-      <br/>
-      <b>📊 Analytics Dashboard</b>
-      <br/>
-      <sub>Overall score, performance trend chart, skill evaluation & per-question AI feedback</sub>
-    </td>
-    <td align="center">
-  <img src="https://github.com/user-attachments/assets/8c2f5319-8b24-40d9-a782-110d48ff173d" alt="Pricing Plans" width="480"/>
-  <br/>
-  <b>💳 Pricing Plans</b>
-  <br/>
-  <sub>Free, Starter & Pro plans with Razorpay checkout — flexible credits for every goal</sub>
-</td>
-  </tr>
-</table>
 
 
 ---
