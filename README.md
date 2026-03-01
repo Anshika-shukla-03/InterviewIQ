@@ -373,13 +373,7 @@ VITE_RAZORPAY_KEY_ID=rzp_test_xxxxxxxxxxxx
 
 InterviewIQ.ai uses **Razorpay in Test Mode** for payment processing.
 
-<td align="center">
-  <img src="https://github.com/user-attachments/assets/8c2f5319-8b24-40d9-a782-110d48ff173d" alt="Pricing Plans" width="480"/>
-  <br/>
-  <b>💳 Pricing Plans</b>
-  <br/>
-  <sub>Free, Starter & Pro plans with Razorpay checkout — flexible credits for every goal</sub>
-</td>
+
 ### Flow
 
 ```
@@ -468,6 +462,16 @@ Both frontend and backend are deployed on **Render**.
       <br/>
       <sub>Hero section with AI-powered tagline, CTA buttons and feature highlights</sub>
     </td>
+              <td align="center">
+        <img src="https://github.com/user-attachments/assets/44ceafed-df3f-4628-a4a0-e01808553a45" alt="Google Auth" width="480"/>
+        <br/>
+        <b>🔐 Google Authentication</b>
+        <br/>
+        <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
+      </td>
+      <br/>
+      <sub>One-click Google OAuth login via Firebase — secure, fast & seamless sign-in experience</sub>
+    </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/dd537902-c46c-47d4-adad-ce33b7fdd4e5" alt="Interview Setup" width="480"/>
       <br/>
@@ -491,6 +495,13 @@ Both frontend and backend are deployed on **Render**.
       <br/>
       <sub>Overall score, performance trend chart, skill evaluation & per-question AI feedback</sub>
     </td>
+    <td align="center">
+  <img src="https://github.com/user-attachments/assets/8c2f5319-8b24-40d9-a782-110d48ff173d" alt="Pricing Plans" width="480"/>
+  <br/>
+  <b>💳 Pricing Plans</b>
+  <br/>
+  <sub>Free, Starter & Pro plans with Razorpay checkout — flexible credits for every goal</sub>
+</td>
   </tr>
 </table>
 
