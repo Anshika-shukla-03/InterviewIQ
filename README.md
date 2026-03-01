@@ -12,7 +12,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![Razorpay](https://img.shields.io/badge/Razorpay-Payments-02042B?style=flat-square&logo=razorpay)](https://razorpay.com/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-FF6B6B?style=flat-square)](https://openrouter.ai/)
-[![Render]](https://render.com/)
 
 [Live Demo](#) • [Report Bug](#) • [Request Feature](#)
 
