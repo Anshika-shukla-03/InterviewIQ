@@ -373,6 +373,13 @@ VITE_RAZORPAY_KEY_ID=rzp_test_xxxxxxxxxxxx
 
 InterviewIQ.ai uses **Razorpay in Test Mode** for payment processing.
 
+<td align="center">
+  <img src="https://github.com/user-attachments/assets/8c2f5319-8b24-40d9-a782-110d48ff173d" alt="Pricing Plans" width="480"/>
+  <br/>
+  <b>💳 Pricing Plans</b>
+  <br/>
+  <sub>Free, Starter & Pro plans with Razorpay checkout — flexible credits for every goal</sub>
+</td>
 ### Flow
 
 ```
